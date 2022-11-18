@@ -7,7 +7,7 @@ package com.mycompany.proyectofuturo;
 
 /**
  *
- * @author User
+ * @author ADAYA ELIAS GRACIA
  */
 public class Proyectofuturo {
 
